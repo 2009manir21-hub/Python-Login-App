@@ -1,0 +1,13 @@
+# User data
+login_data.csv
+# Python cache
+**pycache**/
+*.py[cod]
+# PyInstaller
+build/
+*.spec
+# Virtual environments
+venv/
+.venv/
+# Editor settings
+.vscode/
